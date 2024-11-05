@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ugobuomu.github.io/PeF/sitemap_index.txt
+Sitemap: https://ugobuomu.github.io/tkP/sitemap_index.txt
+Sitemap: https://ugobuomu.github.io/uNo/sitemap_index.txt
+Sitemap: https://ugobuomu.github.io/xDL/sitemap_index.txt
